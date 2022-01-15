@@ -241,7 +241,10 @@ a:hover {
   background-size: cover;
   background-repeat: no-repeat;
 }
-
+.navbar-brand img
+{
+  width:135px;
+}
 .bg-primary {
   background: #008dec !important;
 }
